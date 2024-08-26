@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleName</key>                  <string>Mega Launch</string>
+    <key>CFBundleIdentifier</key>            <string>llc.gumbs.multi.Mega-Launch</string>
+
+    <key>CFBundleExecutable</key>            <string>Stub</string>
+    <key>CFBundleIconFile</key>              <string>Icon.icns</string>
+    <key>LSMinimumSystemVersion</key>        <string>13</string>
+
+    <key>CFBundlePackageType</key>           <string>APPL</string>
+    <key>CFBundleInfoDictionaryVersion</key> <string>6.0</string>
+    <key>CFBundleVersion</key>               <string>3.0.0</string>
+    <key>CFBundleGetInfoString</key>         <string>3.0.0</string>
+    <key>CFBundleShortVersionString</key>    <string>3.0.0</string>
+    <key>NSPrincipalClass</key>              <string>NSApplication</string>
+    <key>NSMainNibFile</key>                 <string>MainMenu</string>
+  </dict>
+</plist>
